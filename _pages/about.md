@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am
+I am.
+
 $\sqrt{3x-1}+(1+x)^2$
