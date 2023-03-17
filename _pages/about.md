@@ -7,4 +7,3 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![tupian](/images/editing-talk.png)
