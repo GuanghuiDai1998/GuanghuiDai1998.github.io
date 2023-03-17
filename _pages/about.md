@@ -13,3 +13,5 @@ redirect_from:
 
 <p> gif insert <br>
 <img src="https://user-images.githubusercontent.com/64770184/225839875-c95a42ef-0af2-4ff6-a927-32eb4201262b.gif" width="560" height="315" /> </p>
+
+$\\overrightarrow{x_{k} }=(\overrightarrow{\rho } -\overrightarrow{\upsilon } )$
