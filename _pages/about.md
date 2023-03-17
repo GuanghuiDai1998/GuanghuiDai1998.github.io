@@ -7,4 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0ifPnbA60BI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://user-images.githubusercontent.com/64770184/225837595-38fdaad6-e253-4d4f-83f7-6686b9bfa3f5.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
