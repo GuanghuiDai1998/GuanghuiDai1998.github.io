@@ -9,5 +9,3 @@ redirect_from:
 ---
 
 I am.
-
-$\sqrt{3x-1}+(1+x)^2$
