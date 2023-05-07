@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Guanghui Dai"
   avatar           : "profile.png"
-  bio              : "无人机自主导航，略懂点控制。关注SLAM，视觉惯性里程计，多传感器融合"
+  bio              : "无人机自主导航，略懂点控制。关注Active SLAM,Autonomous Exporation"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
