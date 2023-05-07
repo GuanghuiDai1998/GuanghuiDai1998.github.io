@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am majoring in automation. My primary area of research lies in the field of robotics particularly Navigation, and Perception. I have a good hold of programming in Python, C, C++. Apart from programming, I have a good hold of simulation software and multiple frameworks for robotics such as ROS, Gazebo, Matlab, Simulink, etc. and,I am focusing on the aerial robotics autonomous exporation. I am also interested in related topcis including Active SLAM,multi-robot Collaborate SLAM,higher-level scene understanding.
+I am majoring in automation. My primary area of research lies in the field of robotics particularly Navigation, and Perception. I have a good hold of programming in Python, C, C++. Apart from programming, I have a good hold of simulation software and multiple frameworks for robotics such as ROS, Gazebo, Matlab, Simulink, etc. 
+
+I am focusing on the aerial robotics autonomous exporation. I am also interested in related topcis including Active SLAM,multi-robot Collaborate SLAM,higher-level scene understanding.
+
 and like most robotics researchers, my ultimate goal is to build robotic systems that can understand the environment like a human and implement corresponding functions .
 
 Programming:  \
